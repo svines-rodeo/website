@@ -9,7 +9,25 @@ export const sharedPageComponents: SharedLayout = {
     Component.ConditionalRender({
       condition: (page) => page.fileData.slug == 'index',
       component: Component.RecentNotes({limit: 5})
-    })
+    }),
+    Component.ConditionalRender({
+      condition: (page) => (page.fileData.slug !== 'index') && !page.fileData.slug?.startsWith("tags/"),
+      component: Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'svines-rodeo/website',
+      // from data-repo-id
+      repoId: 'R_kgDORQ-8Tg',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDORQ-8Ts4C2gM7',
+      // from data-lang
+      lang: 'en'
+    }
+      })
+    }),
   ],
   footer: Component.Footer({
     links: {
