@@ -2,7 +2,7 @@
 draft: "false"
 ---
 
-#AiBros #PersonalComputing #BadNews
+#news #AiBros #PersonalComputing #BadNews 
 
 On Saturday, Word got out that [Western Digital have already sold all of their hard drive capacity for 2026 to AI bros](https://wccftech.com/western-digital-has-no-more-hdd-capacity-left-out/).  Following other tranches of bad news starting with [Sam Altman's Dirty DRam Deal](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal) last october, many computer components are becoming too expensive for the average consumer to purchase. 
 
