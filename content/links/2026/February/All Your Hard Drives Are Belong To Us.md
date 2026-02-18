@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: "false"
 ---
 
 #AiBros #PersonalComputing #BadNews
