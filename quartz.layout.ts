@@ -8,7 +8,18 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.ConditionalRender({
       condition: (page) => page.fileData.slug == 'index',
-      component: Component.RecentNotes({limit: 5})
+      component: Component.RecentNotes({limit: 5, 
+        title: "Recent News Articles",
+        filter: (p)=> (p.filePath?.startsWith("news") || p.filePath?.startsWith("link")) || false
+      })
+    }),
+    Component.ConditionalRender({
+      condition: (page) => page.fileData.slug == 'index',
+      component: Component.RecentNotes({
+        limit: 5,
+        filter: (p)=> !(p.filePath?.startsWith("news") || p.filePath?.startsWith("link")),
+        title: "Recent Encyclopedia Pages"
+      })
     }),
     Component.ConditionalRender({
       condition: (page) => (page.fileData.slug !== 'index') && !page.fileData.slug?.startsWith("tags/"),
