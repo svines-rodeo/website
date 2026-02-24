@@ -1,0 +1,4 @@
+The Epstein Class is a moniker coined on the fediverse and then later expanded [in a treatment](https://pluralistic.net/2026/02/09/sloppy-steve/#mckinley-fanfic-panic) by Cory Doctorow. The term refers to the class of outrageously wealthy people who are protected but not bound by western law and the name comes from now infamous [convicted sex offender Jeffrey Epstein](https://edition.cnn.com/2025/07/09/politics/what-to-know-about-the-jeffrey-epstein-saga)
+
+Members of the Epstein Class are not always engaged in heinous crimes like sex trafficking and paedophilia but often show little regard for the environment, choosing to [commute to work by private jet](http://web.archive.org/web/20260129002231/https://www.bbc.co.uk/news/articles/c20gy48571po) or even [flying walkable distances to avoid traffic](http://web.archive.org/web/20251006114500/https://www.marca.com/en/lifestyle/celebrities/2024/06/27/667d4c21268e3e8c758b476e.html).
+
