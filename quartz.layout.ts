@@ -10,14 +10,14 @@ export const sharedPageComponents: SharedLayout = {
       condition: (page) => page.fileData.slug == 'index',
       component: Component.RecentNotes({limit: 5, 
         title: "Recent News Articles",
-        filter: (p)=> (p.filePath?.startsWith("news") || p.filePath?.startsWith("link")) || false
+        filter: (p)=> (p.slug?.startsWith("news") || p.slug?.startsWith("link"))
       })
     }),
     Component.ConditionalRender({
       condition: (page) => page.fileData.slug == 'index',
       component: Component.RecentNotes({
         limit: 5,
-        filter: (p)=> !(p.filePath?.startsWith("news") || p.filePath?.startsWith("link")),
+        filter: (p)=> !(p.slug?.startsWith("news") || p.slug?.startsWith("link")),
         title: "Recent Encyclopedia Pages"
       })
     }),
