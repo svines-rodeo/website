@@ -19,7 +19,9 @@ IBM have a lot of customers running old COBOL programs. Said customers happen to
 
 Move fast and break things may be a fine strategy for your website for perving on fellow college students ([until you inadvertently break democracy oops](https://www.theguardian.com/technology/2021/dec/06/rohingya-sue-facebook-myanmar-genocide-us-uk-legal-action-social-media-violence)). However, institutions underpinning the modern economy don't have that luxury. The CIO or CTO that takes a risk and loses millions of dollars for their bank, or even worse the taxpayer, would never find another job as a technical leader. 
 
-These organisations, who have refused any kind of change to their system for 30 years due to the risk are not seriously thinking "if only we could have an AI vibe code a solution in react and nextjs." Investors once again demonstrating the irrationality of the rational market. Why? Because [[MBAs]] can't understand the difference between flashy proofs of concept and the reality of complex systems. The AI hysteria continues apace....
+These organisations, who have refused any kind of change to their system for 30 years due to the risk are not seriously thinking "if only we could have an AI vibe code a solution in react and nextjs." 
+
+What exactly is a Claude Skill? It's essentially a glorified prompt in a markdown file. Some of them bundle up supporting scripts and resources but it's essentially the next iteration of "subscribe to my newsletter and I'll share my foolproof prompts for ChatGPT". This is not some magic new model with any solid proof that it works. Investors are once again demonstrating the irrationality of the rational market. Why? Because [[MBAs|Mindless Business Automatons]] can't understand the difference between flashy proofs of concept and the reality of complex systems. The AI hysteria continues apace....
 
 
 
