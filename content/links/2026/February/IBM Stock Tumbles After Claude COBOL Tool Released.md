@@ -1,4 +1,10 @@
-#news #BadNews #IrrationalMarkets #Anthropic
+---
+tags:
+  - news
+  - BadNews
+  - Anthropic
+  - IrrationalMarkets
+---
 
 [External Link](https://uk.investing.com/news/stock-market-news/ibm-stock-tumbles-10-after-anthropic-launches-cobol-ai-tool-4520301)
 
