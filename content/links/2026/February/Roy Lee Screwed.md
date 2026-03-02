@@ -5,8 +5,8 @@ tags:
   - SiliconValley
 ---
 
+[Child’s Play, by Sam Kriss](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee). I preferred this alternative title [suggested on Lemmy](https://hexbear.net/comment/6953914)
 
-[Child’s Play, by Sam Kriss](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee)
 
 This rather depressing account of Sam Kriss' guided tour around San Francisco illustrates exactly why our economy is where it is.
 
