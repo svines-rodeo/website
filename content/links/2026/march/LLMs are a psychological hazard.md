@@ -5,6 +5,7 @@ tags:
   - preprints
   - news
   - BadNews
+  - AIPsychosis
 ---
 
 
