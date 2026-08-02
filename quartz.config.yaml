@@ -9,6 +9,7 @@ configuration:
   locale: en-US
   baseUrl: svines.rodeo
   ignorePatterns:
+    - Library
     - private
     - CONFIG.md
     - CONTAINER_BOOT.md
