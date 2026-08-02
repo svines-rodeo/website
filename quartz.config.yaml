@@ -10,6 +10,8 @@ configuration:
   baseUrl: svines.rodeo
   ignorePatterns:
     - private
+    - CONFIG.md
+    - CONTAINER_BOOT.md
     - templates
     - .obsidian
   theme:
