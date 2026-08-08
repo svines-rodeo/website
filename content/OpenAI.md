@@ -1,0 +1,1 @@
+OpenAI are the company that started the GenAI bubble with the release of ChatGPT in 2022.
