@@ -4,6 +4,7 @@ tags:
   - news
   - AiBros
   - Anthropic
+date: 2026-02-24
 ---
 
 [External Link](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html?m=1)
