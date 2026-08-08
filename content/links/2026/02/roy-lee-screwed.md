@@ -4,6 +4,7 @@ tags:
   - AiBros
   - IrrationalMarkets
   - SiliconValley
+date: 2026-02-28
 ---
 
 [Child’s Play, by Sam Kriss](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee). I preferred this alternative title [suggested on Lemmy](https://hexbear.net/comment/6953914)
