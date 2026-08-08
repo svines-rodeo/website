@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: svines.rodeo
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -19,30 +19,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Bricolage Grotesque
+      body: Source Sans 3
+      code: Spline Sans Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f3f6f4"
+        lightgray: "#dfe6e1"
+        gray: "#7d8981"
+        darkgray: "#3e4841"
+        dark: "#1d2720"
+        secondary: "#3f6b49"
+        tertiary: "#985c38"
+        highlight: rgba(63, 107, 73, 0.12)
+        textHighlight: "#d8be6670"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#171b17"
+        lightgray: "#2b312a"
+        gray: "#8d9789"
+        darkgray: "#d0d5ca"
+        dark: "#edf0e8"
+        secondary: "#91bd89"
+        tertiary: "#d7966b"
+        highlight: rgba(145, 189, 137, 0.14)
+        textHighlight: "#af984b70"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -114,7 +114,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -233,8 +233,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Source: https://github.com/svines-rodeo/website
+        RSS: https://svines.rodeo/index.xml
     layout:
       position: footer
       priority: 50
