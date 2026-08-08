@@ -251,6 +251,10 @@ img,
   margin: 0 0 1.15rem;
 }
 
+.recent-notes + .recent-notes {
+  margin-top: 2.75rem;
+}
+
 .recent-notes > ul.recent-ul {
   margin: 0;
   border-top: 1px solid var(--paper-line);
