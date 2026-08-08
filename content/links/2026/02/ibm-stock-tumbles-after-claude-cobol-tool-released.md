@@ -10,7 +10,7 @@ date: 2026-02-23
 
 [External Link](https://uk.investing.com/news/stock-market-news/ibm-stock-tumbles-10-after-anthropic-launches-cobol-ai-tool-4520301)
 
-The AI madness continues with IBM stocks taking a hit after MisAnthropic announce a COBOL Tool for Claude.
+The AI madness continues with IBM stocks taking a hit after [[Anthropic|MisAnthropic]] announce a COBOL Tool for Claude.
 
 IBM have a lot of customers running old COBOL programs. Said customers happen to be some of the biggest banks and government organisations in the world and as such they're very risk averse (hence *still* running COBOL programs written on the 1960s in 2026). IBM themselves have been trying to automate the migration of COBOL programs to cool/trendy languages like Java or JS for decades. The problem is it just isn't that simple. Last year [universally reviled Elon Musk](https://www.independent.co.uk/news/world/americas/elon-musk-twitter-takeover-trial-jurors-b2924817.html) made the headlines for trying to use DOGE to do exactly this with social security and royally messed up. [Dan Hon's write up for it in the MIT review was pretty spot on:
 ](https://www.technologyreview.com/2025/02/07/1111283/elon-musk-doge-and-the-evil-housekeeper-problem-government-technology/)
