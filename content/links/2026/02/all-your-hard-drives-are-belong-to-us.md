@@ -2,6 +2,7 @@
 title: All Your Hard Drives Are Belong To Us
 draft: "false"
 date: 2026-02-14
+permalink: /test/all-your-hdd-belong2us
 ---
 
 #news #AiBros #PersonalComputing #BadNews 
