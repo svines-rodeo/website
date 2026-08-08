@@ -5,6 +5,7 @@ tags:
   - BadNews
   - Anthropic
   - IrrationalMarkets
+date: 
 ---
 
 [External Link](https://uk.investing.com/news/stock-market-news/ibm-stock-tumbles-10-after-anthropic-launches-cobol-ai-tool-4520301)
