@@ -1,4 +1,5 @@
 ---
+title: Roy Lee Screwed
 tags:
   - AiBros
   - IrrationalMarkets
@@ -27,4 +28,3 @@ So many people who have never formally studied computer science or machine learn
 > Donald was practically vibrating when we left Cluely. “Dude, he’s just a scared little boy,” he said. “He’s scared he’s not doing the right thing, and because of the fucked-up world we live in, people who should be in The Hague are giving him twenty million dollars. Something bad is gonna happen here, something really fucking bad is gonna happen.” He sighed. “I just want Zohran’s nonbinary praetorians to march across the country and put all these guys in cuffs.” I found it hard to disagree.
 
 Same tbh
-

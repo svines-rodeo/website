@@ -1,4 +1,5 @@
 ---
+title: LLMs are a psychological hazard
 tags:
   - AiBros
   - LLMs

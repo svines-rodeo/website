@@ -13,7 +13,7 @@ configuration:
     - private
     - CONFIG.md
     - CONTAINER_BOOT.md
-    - templates
+    - templates/**
     - .obsidian
   theme:
     fontOrigin: googleFonts

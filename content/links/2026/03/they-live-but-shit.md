@@ -1,4 +1,5 @@
 ---
+title: They Live... but Shit
 tags:
   - AIPsychosis
   - Meta

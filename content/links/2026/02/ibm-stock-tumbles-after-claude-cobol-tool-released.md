@@ -1,4 +1,5 @@
 ---
+title: IBM Stock Tumbles After Claude COBOL Tool Released
 tags:
   - news
   - BadNews
@@ -22,8 +23,6 @@ Move fast and break things may be a fine strategy for your website for perving o
 These organisations, who have refused any kind of change to their system for 30 years due to the risk are not seriously thinking "if only we could have an AI vibe code a solution in react and nextjs." 
 
 What exactly is a Claude Skill? It's essentially a glorified prompt in a markdown file. Some of them bundle up supporting scripts and resources but it's essentially the next iteration of "subscribe to my newsletter and I'll share my foolproof prompts for ChatGPT". This is not some magic new model with any solid proof that it works. Investors are once again demonstrating the irrationality of the rational market. Why? Because [[MBAs|Mindless Business Automatons]] can't understand the difference between flashy proofs of concept and the reality of complex systems. The AI hysteria continues apace....
-
-
 
 
 
