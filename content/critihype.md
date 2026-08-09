@@ -1,0 +1,1 @@
+Critihype is a special genre of hype where claims are designed to look negative/pessimistic but in fact 
