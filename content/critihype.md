@@ -2,6 +2,6 @@ Critihype is a special genre of hype where claims are designed to look negative/
 
 
 Recent examples include:
-  - [[AI hacking scandal]]
+  - [[AI hacking scandal 2026]]
   - [[Claude Mythos]]
 
