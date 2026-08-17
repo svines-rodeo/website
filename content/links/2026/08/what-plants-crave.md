@@ -6,6 +6,6 @@ title: What Plants Crave
 
 This incident in which a farmer asked AI to provide guidance on weed control and it told him to spray herbicide that would kill the main crop is... something.
 
-On the one hand there is an element f schadenfreude. On the other, we need food to eat...
+On the one hand there is an element of schadenfreude. On the other, we need food to eat...
 
 
