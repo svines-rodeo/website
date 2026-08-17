@@ -1,5 +1,6 @@
 ---
 draft: false
+title: What Plants Crave
 ---
 [External Link](https://www.techspot.com/news/113420-farmer-trusted-ai-after-gave-good-advice-helped.html)
 
